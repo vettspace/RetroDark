@@ -1868,8 +1868,11 @@
 
         // Status Bar
         "statusBar.background": "#1f1f1f",
-        "statusBar.foreground": "#444343",
+        "statusBar.foreground": "#969696",
         "statusBar.border": "#000000",
+        //без папки
+        "statusBar.noFolderBackground": "#191919",
+        "statusBar.noFolderForeground": "#969696",
 
         // Tab Bar
         "editorGroupHeader.tabsBackground": "#242424",

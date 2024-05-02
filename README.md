@@ -16,3 +16,5 @@ Dark Color Theme for Visual Studio Code
     "editor.fontFamily": "JetBrains Mono"
 }
 ```
+**Installation:**
+To install the theme in VS Code, use a ```*.vsix``` file from the ```/VSIX``` directory

@@ -9,6 +9,10 @@
       "email": "vettspace@gmail.com",
       "url": "https://t.me/vettspace"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vettspace/RetroDark"
+  },
   "engines": {
     "vscode": "^1.88.0"
   },

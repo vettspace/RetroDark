@@ -1,6 +1,6 @@
 # RetroDark
 Dark Color Theme for Visual Studio Code
-*(in progress...)*
+
 <img width="1372" alt="Снимок экрана 2024-05-02 в 01 08 54" src="https://github.com/vettspace/RetroDark/assets/8165581/8ce2f299-b18e-424f-b7cf-92e2434113af">
 
 **Default font:** [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
@@ -17,4 +17,8 @@ Dark Color Theme for Visual Studio Code
 }
 ```
 ## Installation:
-To install the theme in VS Code, use a ```*.vsix``` file from the ```/VSIX``` directory
+To install the theme in VS Code, use a ```*.vsix``` file from the [```/VSIX```](https://github.com/vettspace/RetroDark/tree/main/VSIX) directory on GitHub
+
+or
+
+Install from [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=vettspace.retrodarktheme)

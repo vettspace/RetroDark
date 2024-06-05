@@ -1835,7 +1835,7 @@
         "editor.foreground": "#ffffffba",
         "editorWhitespace.foreground": "#ffffff6e",
         "editor.selectionBackground": "#5398d83a",
-        "editor.lineHighlightBackground": "#00000000",
+        "editor.lineHighlightBackground": "#2B2A2A",
         "editor.lineHighlightBorder": "#00000000",
         "editorIndentGuide.background": "#222222",
         "editorIndentGuide.activeBackground": "#302f2f",
@@ -1858,7 +1858,9 @@
         "list.focusOutline": "#3b3732c4",
         "button.background": "#609EA2",
         "list.focusOutline": "#609EA2",
-        "focusBorder.background": "#609EA2",        
+        "focusBorder.background": "#609EA2",       
+
+         
 
         // Activity Bar
         "activityBar.background": "#1f1f1f",
